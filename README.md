@@ -5,7 +5,7 @@ Una Single Page Application (SPA) que simula la web de una parrilla argentina de
 🔗 **[¡Mira el proyecto en vivo aquí!](https://Tomas2439.github.io/restaurant-menu/)**
 
 ## 📸 Vista Previa
-*(Opcional: Aquí puedes arrastrar una captura de pantalla de tu web funcionando)*
+<img width="1261" height="795" alt="image" src="https://github.com/user-attachments/assets/661b24e6-fdd9-44a2-ad47-834084b2f3ae" />
 
 ## ✨ Características
 - **Navegación SPA:** Cambio entre pestañas (Inicio, Menú, Contacto) de forma instantánea sin recargar la página HTML.
